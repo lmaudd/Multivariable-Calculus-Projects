@@ -1,3 +1,3 @@
 # Multivariable-Calculus-Portfolio
 
-This repository consolidates my self-directed Multivariable Calculus projects into a single portfolio. Originally hosted in separate repositories, these projects demonstrate my application of advanced calculus—including vector operations, surface plotting, and integration—through Python-based numerical modeling and mathematical visualization.
+This repo contains Python scripts for visualizing and solving multivariable calculus problems. It includes projects for vector operations, surface and contour plots, polar coordinates, and numerical integration for volumes and wire mass.
