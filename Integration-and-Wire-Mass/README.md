@@ -1,4 +1,4 @@
-# integration_and_wire_mass
+# Integration-and-Wire-Mass
 
 The file titled integration.py can solve single, double, and triple integrals. I wrote the code with cartesian functions in mind and have yet to 
 explore applying it to others. However, I think it would be able to handle polar, cylindrical, and spherical with minimal modifications. 
