@@ -1,4 +1,4 @@
-# Polar_Plots_and_Area
+# Polar-Plots-and-Area
 Python code that can plot, shade, and compute area in polar coordinates.
 
 polar_plotting_and_area.py has three functions. pplot() plots a function in terms of theta (r = sin(theta), for example). pshade() has the same functionality as pplot(), but it fills the plot
