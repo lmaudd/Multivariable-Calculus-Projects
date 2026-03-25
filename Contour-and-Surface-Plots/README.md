@@ -1,4 +1,4 @@
-# contour_and_surface_plots_python
+# Contour-and-Surface-Plots
 Functions for creating contour and surface plots.
 
 Dependencies: numpy and matplitlib
